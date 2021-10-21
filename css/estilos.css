@@ -27,6 +27,23 @@ nav .active{
     background-size: 100%;
     background-repeat: no-repeat;
 }
+#proyectos{
+    background-image: url(../images/fondo-proyectos.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#proyectos h2{
+    font-size: 16px;
+    text-transform: uppercase;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+#proyectos h2{
+    background: rgb(198,15,6);
+    background: linear-gradient(90deg, rgba(198,15,6,1) 13%, rgba(210,82,75,1) 100%);
+}
+
 
 .btn{
     color: #370a6d;
