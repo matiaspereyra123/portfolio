@@ -38,6 +38,40 @@ nav .active{
     background-size: 100%;
     background-repeat: no-repeat;
 }
+
+#inicio img{
+    height:410px;
+}
+
+#inicio img:hover{
+height:400px;
+}
+#inicio .div-cohete{
+  height:410px;  
+}
+#inicio .div-text{
+    
+    text-align: center;
+    height: 100px;
+    width: 800px;
+}
+#inicio .p-1{
+width:500px;
+}
+#inicio .input-home p{
+    position: relative;
+    top: 30px;;
+    left:50%;
+    right:50%;
+    color:white;
+    border: 1px solid;
+    border-radius: 50px;
+}
+#inicio .div-boton{
+    text-align: center;
+}
+
+
 #proyectos h2{
     font-size: 22px;
     font-weight: bold;
