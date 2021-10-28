@@ -28,6 +28,14 @@ nav .active{
     border: 1px solid #E20000;
     border-radius: 20px;
 }
+
+
+#inicio{
+    background-image: url(../images/fondo-contacto.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
 #contacto{
     background-image: url(../images/fondo-contacto.png);
     background-size: 100%;
@@ -49,24 +57,18 @@ height:400px;
 #inicio .div-cohete{
   height:410px;  
 }
-#inicio .div-text{
-    
-    text-align: center;
-    height: 100px;
-    width: 800px;
-}
-#inicio .p-1{
-width:500px;
-}
 #inicio .input-home p{
-    position: relative;
-    top: 30px;;
-    left:50%;
-    right:50%;
     color:white;
-    border: 1px solid;
+    font-size: 17px;
+    border: 1px solid white;
     border-radius: 50px;
+    font-weight: 600;
 }
+
+
+
+
+
 #inicio .div-boton{
     text-align: center;
 }
@@ -80,9 +82,7 @@ width:500px;
     padding: 0px;
     margin: 0px;
 }
-#proyectos h2{
- 
-}
+
 #proyectos img{
     height: 230px;
 }
@@ -125,7 +125,7 @@ footer, footer a{
 }
 footer .fa-github{
 font-size: 30px;
-color: #ff4a49;
+color: #ffffff;
 }
 footer .fa-linkedin-in{
     color: #ff4a49;

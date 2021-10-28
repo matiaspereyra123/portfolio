@@ -27,16 +27,16 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
                         <li class="nav-item">
-                            <a class="nav-link px-4 py-1" href="index.html">Inicio</a>
+                            <a class="nav-link px-4 py-1" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4 py-1" href="sobremi.html">Sobre mí</a>
+                            <a class="nav-link px-4 py-1" href="sobre-mi.php">Sobre mí</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4 py-1 active" href="proyectos.html">Proyectos</a>
+                            <a class="nav-link px-4 py-1 active" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4 py-1 " href="contacto.html">Contacto</a>
+                            <a class="nav-link px-4 py-1" href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <div class="d-inline">
@@ -75,8 +75,8 @@
                         <div class="col-6">
                             <a href="sistema/abmclientes" class="btn btn-rojo" target="_blank">Ver online</a>
                         </div>
-                        <div class="col-6">
-                            <a href="" style="text-align: right">Código fuente</a>
+                        <div class="col-6 link-rojo text-center">
+                            <a href="">Código fuente</a>
                         </div>
                     </div>
                     
@@ -101,7 +101,7 @@
                         <div class="col-6">
                             <a href="sistema/abmclientes" class="btn btn-rojo" target="_blank">Ver online</a>
                         </div>
-                        <div class="col-6">
+                        <div class="col-6 link-rojo text-center">
                             <a href="">Código fuente</a>
                         </div>
                     </div>
@@ -127,7 +127,7 @@
                         <div class="col-6">
                             <a href="sistema/abmclientes" class="btn btn-rojo" target="_blank">Ver online</a>
                         </div>
-                        <div class="col-6 link-rojo">
+                        <div class="col-6 link-rojo text-center">
                             <a href="">Código fuente</a>
                         </div>
                     </div>

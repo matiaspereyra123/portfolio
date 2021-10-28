@@ -16,7 +16,7 @@
     <title>Proyectos</title>
 </head>
 
-<body id="proyectos">
+<body id="inicio">
     <header>
         <nav class="navbar navbar-expand-md mb-4">
             <div class="container">
@@ -27,16 +27,16 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
                         <li class="nav-item">
-                            <a class="nav-link px-4 py-1 active" href="index.html">Inicio</a>
+                            <a class="nav-link px-4 py-1 active" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4 py-1" href="sobremi.html">Sobre mí</a>
+                            <a class="nav-link px-4 py-1" href="sobre-mi.php">Sobre mí</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4 py-1" href="proyectos.html">Proyectos</a>
+                            <a class="nav-link px-4 py-1" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " href="contacto.html">Contacto</a>
+                            <a class="nav-link px-4 py-1 " href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <div class="d-inline">
@@ -47,13 +47,49 @@
         </nav>
     </header>
     <main class="container">
+      <div class="row">
+          <div class="col-12 mt-4 text-center div-cohete">
+                <a href="proyectos.php">
+                    <img src="images/cohete.svg">
+    
+                  </a>     
+
+             </div>
+         
+          </div>
       
+
+      <div class="row">
+        <div class="col-12 col-sm-6 my-4 mt-sm-5 text-center offset-sm-3 mb-3">
+            <div class="input-home">
+                <p class="p-1">Bienvenid@ a mi sitio web!</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12 div-boton">
+               <a href="proyectos.php" class="btn btn light">Conoce mis proyectos</a>
+        </div>
+    </div>
    
       
         
     </main>
     <footer class="container">
-        
+        <div class="row mt-5 justify-content-center">
+            
+            <div class="col-sm-6 text-sm-center pt-2 p-sm-0 text-right">
+                <a href="http://github.com" target="_blank" title="Github"><i class="fab fa-github"></i></a>
+
+                <a href="https://www.linkedin.com/in/raulmatiaspereyra/" target="_blank" title="Linkedin"><i
+                        class="fab fa-linkedin-in"></i></a>
+            </div>
+
+            <div class="col-sm-6 text-sm-start pt-2 p-sm-0 text-right">
+                <a href="maito:raulmatiaspereyra@gmail.com">raulmatiaspereyra@gmail.com</a>
+            </div>
+        </div>
     </footer>
     <div class="whatsapp">
         <a href="https://api.whatsapp.com/send?phone=541164033027" target="_blank"
