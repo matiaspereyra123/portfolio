@@ -1,4 +1,4 @@
-<? php $proyectos; ?>
+<?php $pg="proyectos"; ?>
 <!DOCTYPE html>
 <html lang="en">
 

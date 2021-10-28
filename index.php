@@ -1,4 +1,4 @@
-<? php $inicio; ?>
+<?php $pg="inicio"; ?>
 
 
 <!DOCTYPE html>

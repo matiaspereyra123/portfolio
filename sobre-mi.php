@@ -1,5 +1,4 @@
-<? php $sobremi; ?>
-
+<?php $pg="sobremi";?>
 <!DOCTYPE html>
 <html lang="en">
 
